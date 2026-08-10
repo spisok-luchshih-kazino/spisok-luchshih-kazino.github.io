@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: spisok-luchshih-kazino.github.io
+Sitemap: https://spisok-luchshih-kazino.github.io/sitemap.xml
